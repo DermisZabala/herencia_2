@@ -1,0 +1,15 @@
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\herencia\Herencia_2\bin\Debug\net5.0\Herencia_2.exe
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\herencia\Herencia_2\bin\Debug\net5.0\Herencia_2.deps.json
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\herencia\Herencia_2\bin\Debug\net5.0\Herencia_2.runtimeconfig.json
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\herencia\Herencia_2\bin\Debug\net5.0\Herencia_2.runtimeconfig.dev.json
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\herencia\Herencia_2\bin\Debug\net5.0\Herencia_2.dll
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\herencia\Herencia_2\bin\Debug\net5.0\Herencia_2.pdb
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\herencia\Herencia_2\obj\Debug\net5.0\Herencia_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\herencia\Herencia_2\obj\Debug\net5.0\Herencia_2.AssemblyInfoInputs.cache
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\herencia\Herencia_2\obj\Debug\net5.0\Herencia_2.AssemblyInfo.cs
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\herencia\Herencia_2\obj\Debug\net5.0\Herencia_2.csproj.CoreCompileInputs.cache
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\herencia\Herencia_2\obj\Debug\net5.0\Herencia_2.dll
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\herencia\Herencia_2\obj\Debug\net5.0\refint\Herencia_2.dll
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\herencia\Herencia_2\obj\Debug\net5.0\Herencia_2.pdb
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\herencia\Herencia_2\obj\Debug\net5.0\Herencia_2.genruntimeconfig.cache
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\herencia\Herencia_2\obj\Debug\net5.0\ref\Herencia_2.dll
